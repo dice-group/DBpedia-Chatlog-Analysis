@@ -1,4 +1,4 @@
-# DBpedia-Chatlog-Analysis-
+# DBpedia-Chatlog-Analysis
 discourse analysis for DBpedia chatbot: http://chat.dbpedia.org/
 
 To vectorize verb-obecjt pairs:
