@@ -10,7 +10,7 @@ Discourse analysis for DBpedia chatbot: http://chat.dbpedia.org/
       * no. of failed responses per conversation and no. of questions that did not satisfy users 
       * Conversation length after a negative feedback
       * character length of user-requests
-      * perform NER and find commonly asked topics - plot distribution
+      * perform NER and find commonly asked topics
       * if coreferences exist
       * the language of user-requests
    
