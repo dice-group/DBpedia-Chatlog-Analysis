@@ -1,6 +1,9 @@
 # DBpedia-Chatlog-Analysis
 Discourse analysis for DBpedia chatbot: http://chat.dbpedia.org/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3597626.svg)](https://doi.org/10.5281/zenodo.3597626)
+
+
 #### Description of notebooks:
 
   1. [data_exploration.ipynb](https://github.com/dice-group/DBpedia-Chatlog-Analysis/blob/master/data_exploration.ipynb) houses code for grouping chats w.r.t. user_id and for preliminary analysis, such as, finding average length of conversation and number of users.  
