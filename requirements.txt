@@ -315,7 +315,7 @@ twython==3.7.0
 typing==3.7.4
 ubuntu-drivers-common==0.0.0
 ufw==0.35
-ujson==1.35
+ujson==5.2.0
 umap==0.1.1
 umap-learn==0.3.10
 unattended-upgrades==0.1
