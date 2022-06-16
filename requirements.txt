@@ -170,7 +170,7 @@ networkx==2.3
 neuralcoref==4.0
 newspaper3k==0.2.8
 nltk==3.4.4
-notebook==6.0.0
+notebook==6.4.12
 numba==0.45.1
 numpy==1.17.0
 numpydoc==0.9.1
