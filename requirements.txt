@@ -172,7 +172,7 @@ newspaper3k==0.2.8
 nltk==3.4.4
 notebook==6.0.0
 numba==0.45.1
-numpy==1.17.0
+numpy==1.22.0
 numpydoc==0.9.1
 oauth==1.0.1
 oauthlib==3.1.0
