@@ -239,7 +239,7 @@ PyYAML==5.1.2
 pyzmq==18.1.0
 rasa-nlu==0.15.1
 regex==2019.8.19
-reportlab==3.5.23
+reportlab==3.5.55
 requests==2.22.0
 requests-file==1.4.3
 requests-oauthlib==1.2.0
