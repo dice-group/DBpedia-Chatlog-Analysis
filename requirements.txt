@@ -120,7 +120,7 @@ jeepney==0.4.1
 jieba3k==0.35.1
 Jinja2==2.10.1
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 jsondiff==1.2.0
 jsonnet==0.13.0
 jsonpatch==1.24
