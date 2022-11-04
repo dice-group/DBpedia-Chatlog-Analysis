@@ -310,7 +310,7 @@ tqdm==4.34.0
 traitlets==4.3.2
 Tubes==0.2.0
 twarc==1.7.3
-Twisted==19.7.0
+Twisted==22.10.0
 twython==3.7.0
 typing==3.7.4
 ubuntu-drivers-common==0.0.0
