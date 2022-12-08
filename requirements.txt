@@ -29,7 +29,7 @@ botocore==1.12.211
 bpemb==0.3.0
 Brlapi==0.6.6
 bz2file==0.98
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.3
 cfn-lint==0.23.3
 characteristic==14.3.0
